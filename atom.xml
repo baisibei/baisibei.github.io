@@ -4,9 +4,9 @@
   <subtitle>果果的成长历程</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://baisibei.github.io/"/>
+  <link href="http://daughter.tonybai.com/"/>
   <updated>2016-12-17T15:27:59.000Z</updated>
-  <id>https://baisibei.github.io/</id>
+  <id>http://daughter.tonybai.com/</id>
   
   <author>
     <name>Amy Bai</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>第一篇（待写）</title>
-    <link href="https://baisibei.github.io/2016/12/15/initial-post/"/>
-    <id>https://baisibei.github.io/2016/12/15/initial-post/</id>
+    <link href="http://daughter.tonybai.com/2016/12/15/initial-post/"/>
+    <id>http://daughter.tonybai.com/2016/12/15/initial-post/</id>
     <published>2016-12-15T00:00:00.000Z</published>
     <updated>2016-12-17T15:27:59.000Z</updated>
     
@@ -32,9 +32,9 @@
     
     </summary>
     
-      <category term="日记" scheme="https://baisibei.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="感悟" scheme="https://baisibei.github.io/categories/%E6%97%A5%E8%AE%B0/%E6%84%9F%E6%82%9F/"/>
+      <category term="感悟" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E6%84%9F%E6%82%9F/"/>
     
     
   </entry>
