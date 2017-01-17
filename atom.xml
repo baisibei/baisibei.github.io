@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://daughter.tonybai.com/"/>
-  <updated>2017-01-16T13:31:40.000Z</updated>
+  <updated>2017-01-17T02:10:07.000Z</updated>
   <id>http://daughter.tonybai.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://daughter.tonybai.com/2017/01/16/my-achievement-report-of-first-term-in-grade-one/"/>
     <id>http://daughter.tonybai.com/2017/01/16/my-achievement-report-of-first-term-in-grade-one/</id>
     <published>2017-01-16T00:00:00.000Z</published>
-    <updated>2017-01-16T13:31:40.000Z</updated>
+    <updated>2017-01-17T02:10:07.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天老爸去学校参加一年级上学期期末家长会了。会上校长和班主任分别对这一学期以来的教学工作做了总结，并对学生们即将到来的寒假做了安排。并且，每位家长都收到了本学期孩子的《学业成绩报告单》。以下是我的学业成绩哦:)</p>
 <p><img src="http://image.tonybai.com/img/201701/diary_20170116_2.jpg" alt="学科成绩评价表"><br><img src="http://image.tonybai.com/img/201701/diary_20170116_1.jpg" alt="语文和数学期末学业测试卷纸"><br><img src="http://image.tonybai.com/img/201701/diary_20170116_3.jpg" alt="“双科冠军”奖状"></p>
@@ -36,7 +36,7 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="校园" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E6%A0%A1%E5%9B%AD/"/>
+      <category term="2017" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2017/"/>
     
     
       <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
@@ -47,6 +47,8 @@
     
       <category term="小学" scheme="http://daughter.tonybai.com/tags/%E5%B0%8F%E5%AD%A6/"/>
     
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
   </entry>
   
   <entry>
@@ -54,7 +56,7 @@
     <link href="http://daughter.tonybai.com/2017/01/15/periodical-photo-at-six/"/>
     <id>http://daughter.tonybai.com/2017/01/15/periodical-photo-at-six/</id>
     <published>2017-01-15T00:00:00.000Z</published>
-    <updated>2017-01-16T00:23:19.000Z</updated>
+    <updated>2017-01-17T02:09:43.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.tonybai.com/img/201701/diary_20170115_1.jpg" alt="拍照记"><br><img src="http://image.tonybai.com/img/201701/diary_20170115_2.jpg" alt="套系1"><br><img src="http://image.tonybai.com/img/201701/diary_20170115_3.jpg" alt="套系2"><br><img src="http://image.tonybai.com/img/201701/diary_20170115_4.jpg" alt="套系3"><br><img src="http://image.tonybai.com/img/201701/diary_20170115_5.jpg" alt="套系4"></p>
 <p>老爸点评： 去年她妈妈就给她订了一套六周岁写真套餐，但由于发烧感冒，上次预约的时间点没能拍上，今天终于可以成行了。果果长大了，拍起照片来十分配合也十分happy。</p>
@@ -68,7 +70,7 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="家庭" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E5%AE%B6%E5%BA%AD/"/>
+      <category term="2017" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2017/"/>
     
     
       <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
@@ -81,6 +83,8 @@
     
       <category term="购物" scheme="http://daughter.tonybai.com/tags/%E8%B4%AD%E7%89%A9/"/>
     
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
   </entry>
   
   <entry>
@@ -88,7 +92,7 @@
     <link href="http://daughter.tonybai.com/2017/01/11/my-draw-sea-world/"/>
     <id>http://daughter.tonybai.com/2017/01/11/my-draw-sea-world/</id>
     <published>2017-01-11T00:00:00.000Z</published>
-    <updated>2017-01-11T12:53:41.000Z</updated>
+    <updated>2017-01-17T02:09:00.000Z</updated>
     
     <content type="html"><![CDATA[<p>姥姥昨天给我买了一本韩国炫彩刮画，我花了两天时间创作出一幅刮画：《海洋世界》。</p>
 <p><img src="http://image.tonybai.com/img/201701/draw_20170111.jpg" alt="刮画：海洋世界"></p>
@@ -105,6 +109,8 @@
     
       <category term="美术" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/"/>
     
+      <category term="2017" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/2017/"/>
+    
     
       <category term="美术" scheme="http://daughter.tonybai.com/tags/%E7%BE%8E%E6%9C%AF/"/>
     
@@ -114,6 +120,8 @@
     
       <category term="刮画" scheme="http://daughter.tonybai.com/tags/%E5%88%AE%E7%94%BB/"/>
     
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
   </entry>
   
   <entry>
@@ -121,7 +129,7 @@
     <link href="http://daughter.tonybai.com/2017/01/10/my-color-world/"/>
     <id>http://daughter.tonybai.com/2017/01/10/my-color-world/</id>
     <published>2017-01-10T00:00:00.000Z</published>
-    <updated>2017-01-10T13:50:34.000Z</updated>
+    <updated>2017-01-17T02:08:40.000Z</updated>
     
     <content type="html"><![CDATA[<p>按照老爸给我制定的假期作息表，我在“折纸、画画、手工”这一时段随手画了一幅画：五彩世界。</p>
 <p><img src="http://image.tonybai.com/img/201701/draw_20170110.jpg" alt="五彩世界"></p>
@@ -138,12 +146,16 @@
     
       <category term="美术" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/"/>
     
+      <category term="2017" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/2017/"/>
+    
     
       <category term="美术" scheme="http://daughter.tonybai.com/tags/%E7%BE%8E%E6%9C%AF/"/>
     
       <category term="画画" scheme="http://daughter.tonybai.com/tags/%E7%94%BB%E7%94%BB/"/>
     
       <category term="寒假" scheme="http://daughter.tonybai.com/tags/%E5%AF%92%E5%81%87/"/>
+    
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
     
   </entry>
   
@@ -152,7 +164,7 @@
     <link href="http://daughter.tonybai.com/2017/01/08/my-first-tooth-pulled-out/"/>
     <id>http://daughter.tonybai.com/2017/01/08/my-first-tooth-pulled-out/</id>
     <published>2017-01-08T00:00:00.000Z</published>
-    <updated>2017-01-10T06:32:54.000Z</updated>
+    <updated>2017-01-17T02:08:08.000Z</updated>
     
     <content type="html"><![CDATA[<p>我开始换牙了。</p>
 <p>最先活动的是门牙下面那颗小牙，不过上周被妈妈发现那颗乳牙下面的牙已经“冒头”，再不处理，牙就会长歪。于是今天妈妈、爸爸带我去齿科看牙。</p>
@@ -175,8 +187,18 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="古筝" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E5%8F%A4%E7%AD%9D/"/>
+      <category term="2017" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2017/"/>
     
+    
+      <category term="古筝" scheme="http://daughter.tonybai.com/tags/%E5%8F%A4%E7%AD%9D/"/>
+    
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
+      <category term="拔牙" scheme="http://daughter.tonybai.com/tags/%E6%8B%94%E7%89%99/"/>
+    
+      <category term="换牙" scheme="http://daughter.tonybai.com/tags/%E6%8D%A2%E7%89%99/"/>
+    
+      <category term="演出" scheme="http://daughter.tonybai.com/tags/%E6%BC%94%E5%87%BA/"/>
     
   </entry>
   
@@ -185,7 +207,7 @@
     <link href="http://daughter.tonybai.com/2017/01/07/a-busy-saturday-201701/"/>
     <id>http://daughter.tonybai.com/2017/01/07/a-busy-saturday-201701/</id>
     <published>2017-01-07T00:00:00.000Z</published>
-    <updated>2017-01-07T23:20:54.000Z</updated>
+    <updated>2017-01-17T02:07:25.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天是周六，但我却很忙碌。</p>
 <p>上午，我和爸爸一起去青少年宫学画画，今天曹老师依旧教我们画<a href="http://daughter.tonybai.com/2016/12/17/my-first-sandpaper-painting/">砂纸画</a>，画的是一幅“猫咪”，但爸爸第一次看到后却说这是一只打老虎，唉。爸爸的眼神儿真是太差了！</p>
@@ -207,10 +229,18 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="古筝" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E5%8F%A4%E7%AD%9D/"/>
+      <category term="2017" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2017/"/>
     
-      <category term="美术" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E5%8F%A4%E7%AD%9D/%E7%BE%8E%E6%9C%AF/"/>
     
+      <category term="美术" scheme="http://daughter.tonybai.com/tags/%E7%BE%8E%E6%9C%AF/"/>
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="古筝" scheme="http://daughter.tonybai.com/tags/%E5%8F%A4%E7%AD%9D/"/>
+    
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
+      <category term="音乐会" scheme="http://daughter.tonybai.com/tags/%E9%9F%B3%E4%B9%90%E4%BC%9A/"/>
     
   </entry>
   
@@ -219,7 +249,7 @@
     <link href="http://daughter.tonybai.com/2017/01/01/happy-new-year-2017/"/>
     <id>http://daughter.tonybai.com/2017/01/01/happy-new-year-2017/</id>
     <published>2017-01-01T00:00:00.000Z</published>
-    <updated>2017-01-03T04:03:49.000Z</updated>
+    <updated>2017-01-17T02:04:40.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.tonybai.com/img/201701/diary_20170101_3.jpg" alt="2017元旦快乐（图片来自网络）"></p>
 <p>今天是2017年的元旦，祝大家2017新年快乐！</p>
@@ -239,6 +269,20 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
+      <category term="2017" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2017/"/>
+    
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
+      <category term="节日" scheme="http://daughter.tonybai.com/tags/%E8%8A%82%E6%97%A5/"/>
+    
+      <category term="旅游" scheme="http://daughter.tonybai.com/tags/%E6%97%85%E6%B8%B8/"/>
+    
+      <category term="博物馆" scheme="http://daughter.tonybai.com/tags/%E5%8D%9A%E7%89%A9%E9%A6%86/"/>
+    
+      <category term="雾霾" scheme="http://daughter.tonybai.com/tags/%E9%9B%BE%E9%9C%BE/"/>
     
   </entry>
   
@@ -247,7 +291,7 @@
     <link href="http://daughter.tonybai.com/2016/12/30/my-first-new-year-party-at-school/"/>
     <id>http://daughter.tonybai.com/2016/12/30/my-first-new-year-party-at-school/</id>
     <published>2016-12-30T00:00:00.000Z</published>
-    <updated>2016-12-31T02:47:49.000Z</updated>
+    <updated>2017-01-17T02:06:40.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.tonybai.com/img/201612/diary_20161230_3.jpg" alt=""></p>
 <p>老爸点评：今天果果的学校举行2017新年联欢会，这也是果果在学校的第一次新年联欢会。在联欢会上果果给大家表演了配乐诗朗诵《梦的味道》。从<a href="http://v.youku.com/v_show/id_XMTg5MjE2ODU0MA==.html" target="_blank" rel="external">视频</a>来看，果果的朗诵还是不错的。下面是联欢会上的一些照片：</p>
@@ -272,8 +316,18 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="校园生活" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/"/>
+      <category term="2016" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2016/"/>
     
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="校园" scheme="http://daughter.tonybai.com/tags/%E6%A0%A1%E5%9B%AD/"/>
+    
+      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
+    
+      <category term="联欢会" scheme="http://daughter.tonybai.com/tags/%E8%81%94%E6%AC%A2%E4%BC%9A/"/>
+    
+      <category term="诗朗诵" scheme="http://daughter.tonybai.com/tags/%E8%AF%97%E6%9C%97%E8%AF%B5/"/>
     
   </entry>
   
@@ -282,7 +336,7 @@
     <link href="http://daughter.tonybai.com/2016/12/28/a-term-examination-about-poem-for-first-term-in-grade-one/"/>
     <id>http://daughter.tonybai.com/2016/12/28/a-term-examination-about-poem-for-first-term-in-grade-one/</id>
     <published>2016-12-28T00:00:00.000Z</published>
-    <updated>2016-12-28T13:35:31.000Z</updated>
+    <updated>2017-01-17T02:06:22.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.tonybai.com/img/201612/quiz_20161228.jpg" alt="期末测试中我制作的小诗卡"></p>
 <p>从这周开始，学校就进入期末考试阶段了。今天的测试题目是：制作小诗卡。我使用的是唐代著名大诗人李白的《望天门山》，还配了图喽。</p>
@@ -297,8 +351,20 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="校园生活" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/"/>
+      <category term="2016" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2016/"/>
     
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="校园" scheme="http://daughter.tonybai.com/tags/%E6%A0%A1%E5%9B%AD/"/>
+    
+      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
+    
+      <category term="考试" scheme="http://daughter.tonybai.com/tags/%E8%80%83%E8%AF%95/"/>
+    
+      <category term="唐诗" scheme="http://daughter.tonybai.com/tags/%E5%94%90%E8%AF%97/"/>
+    
+      <category term="李白" scheme="http://daughter.tonybai.com/tags/%E6%9D%8E%E7%99%BD/"/>
     
   </entry>
   
@@ -307,7 +373,7 @@
     <link href="http://daughter.tonybai.com/2016/12/24/merry-christmas-2016/"/>
     <id>http://daughter.tonybai.com/2016/12/24/merry-christmas-2016/</id>
     <published>2016-12-24T00:00:00.000Z</published>
-    <updated>2016-12-24T04:30:49.000Z</updated>
+    <updated>2017-01-17T02:06:10.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.tonybai.com/img/201612/draw_20161224.jpg" alt="我的砂纸画：圣诞树"></p>
 <p>今天是西方传统圣诞节前的平安夜，美术课老师教我们画了一幅圣诞树砂纸画，我就用这幅画祝大家圣诞快乐！</p>
@@ -320,8 +386,20 @@
     
     </summary>
     
-      <category term="画作" scheme="http://daughter.tonybai.com/categories/%E7%94%BB%E4%BD%9C/"/>
+      <category term="美术" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/"/>
     
+      <category term="2016" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/2016/"/>
+    
+    
+      <category term="美术" scheme="http://daughter.tonybai.com/tags/%E7%BE%8E%E6%9C%AF/"/>
+    
+      <category term="画画" scheme="http://daughter.tonybai.com/tags/%E7%94%BB%E7%94%BB/"/>
+    
+      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
+    
+      <category term="圣诞节" scheme="http://daughter.tonybai.com/tags/%E5%9C%A3%E8%AF%9E%E8%8A%82/"/>
+    
+      <category term="砂纸画" scheme="http://daughter.tonybai.com/tags/%E7%A0%82%E7%BA%B8%E7%94%BB/"/>
     
   </entry>
   
@@ -330,7 +408,7 @@
     <link href="http://daughter.tonybai.com/2016/12/23/a-quiz-fill-blanks-for-poems/"/>
     <id>http://daughter.tonybai.com/2016/12/23/a-quiz-fill-blanks-for-poems/</id>
     <published>2016-12-23T00:00:00.000Z</published>
-    <updated>2016-12-23T06:44:28.000Z</updated>
+    <updated>2017-01-17T02:05:58.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.tonybai.com/img/201612/quiz_20161223.jpg" alt="今天的随堂测验，我又拿了100分"></p>
 <p>老爸点评：时间过得真快！9月份入学的一年级小豆包们即将迎来学生时代的第一次期末考试了。这两周已经进入了复习阶段，这不每天都有随堂测验，不过果果挺给我们长脸，各种随堂模拟测试成绩都是优异。作为老爸只能心里偷着笑，在果果面前还要保持严肃，告诫他：不骄不躁，切忌马虎大意:)。</p>
@@ -345,8 +423,18 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="校园生活" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/"/>
+      <category term="2016" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2016/"/>
     
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="校园" scheme="http://daughter.tonybai.com/tags/%E6%A0%A1%E5%9B%AD/"/>
+    
+      <category term="小学" scheme="http://daughter.tonybai.com/tags/%E5%B0%8F%E5%AD%A6/"/>
+    
+      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
+    
+      <category term="考试" scheme="http://daughter.tonybai.com/tags/%E8%80%83%E8%AF%95/"/>
     
   </entry>
   
@@ -355,7 +443,7 @@
     <link href="http://daughter.tonybai.com/2016/12/20/a-jumping-rope-match-at-school/"/>
     <id>http://daughter.tonybai.com/2016/12/20/a-jumping-rope-match-at-school/</id>
     <published>2016-12-20T00:00:00.000Z</published>
-    <updated>2016-12-20T13:36:13.000Z</updated>
+    <updated>2017-01-17T02:05:41.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://image.tonybai.com/img/201612/diary_20161220.jpg" alt="今天我拿到了跳绳比赛女生组第三名"></p>
 <p>老爸点评：这重雾霾天，老师居然还让学生到操场上活动，作为家长，想想也是醉了:(。</p>
@@ -370,8 +458,16 @@
     
       <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="校园生活" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/%E6%A0%A1%E5%9B%AD%E7%94%9F%E6%B4%BB/"/>
+      <category term="2016" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/2016/"/>
     
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="校园" scheme="http://daughter.tonybai.com/tags/%E6%A0%A1%E5%9B%AD/"/>
+    
+      <category term="跳绳" scheme="http://daughter.tonybai.com/tags/%E8%B7%B3%E7%BB%B3/"/>
+    
+      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
     
   </entry>
   
@@ -380,7 +476,7 @@
     <link href="http://daughter.tonybai.com/2016/12/18/a-koto-play-at-starmall/"/>
     <id>http://daughter.tonybai.com/2016/12/18/a-koto-play-at-starmall/</id>
     <published>2016-12-18T00:00:00.000Z</published>
-    <updated>2016-12-20T01:37:29.000Z</updated>
+    <updated>2017-01-17T02:05:17.000Z</updated>
     
     <content type="html"><![CDATA[<p>周日，星摩尔的KFC店举办了一次主题生日餐会活动。KFC店邀请乐博艺淳艺术学校出一个表演节目。于是校长安排了古筝班三名小演员进行一次合奏，曲目是“荷塘月色”。下面是演出时的照片哦。</p>
 <p><img src="http://image.tonybai.com/img/201612/koto_20161218_1.jpg" alt="在星摩尔演奏“荷塘月色”(左1: 果果)"></p>
@@ -395,6 +491,14 @@
     
       <category term="古筝" scheme="http://daughter.tonybai.com/categories/%E5%8F%A4%E7%AD%9D/"/>
     
+      <category term="2016" scheme="http://daughter.tonybai.com/categories/%E5%8F%A4%E7%AD%9D/2016/"/>
+    
+    
+      <category term="古筝" scheme="http://daughter.tonybai.com/tags/%E5%8F%A4%E7%AD%9D/"/>
+    
+      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
+    
+      <category term="表演" scheme="http://daughter.tonybai.com/tags/%E8%A1%A8%E6%BC%94/"/>
     
   </entry>
   
@@ -403,7 +507,7 @@
     <link href="http://daughter.tonybai.com/2016/12/17/my-first-sandpaper-painting/"/>
     <id>http://daughter.tonybai.com/2016/12/17/my-first-sandpaper-painting/</id>
     <published>2016-12-17T00:00:00.000Z</published>
-    <updated>2016-12-20T01:36:49.000Z</updated>
+    <updated>2017-01-17T02:05:21.000Z</updated>
     
     <content type="html"><![CDATA[<p>这是我的第一篇博文，意义重大，但也没那么重要。生活是由点点滴滴组成的，让我就从那一点一滴开始。哦，Sorry，这段开场白来自我的老爸哦，第一篇是由他代劳的^0^。</p>
 <p>在用记号笔画了几个月的儿童简笔画/线条画之后，美术老师终于开始教我们一种新的儿童画类型：油画棒砂纸画。下面就是我今天画的第一幅油画棒砂纸画，你觉得怎么样？</p>
@@ -416,8 +520,18 @@
     
     </summary>
     
-      <category term="画作" scheme="http://daughter.tonybai.com/categories/%E7%94%BB%E4%BD%9C/"/>
+      <category term="美术" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/"/>
     
+      <category term="2016" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/2016/"/>
+    
+    
+      <category term="美术" scheme="http://daughter.tonybai.com/tags/%E7%BE%8E%E6%9C%AF/"/>
+    
+      <category term="画画" scheme="http://daughter.tonybai.com/tags/%E7%94%BB%E7%94%BB/"/>
+    
+      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
+    
+      <category term="砂纸画" scheme="http://daughter.tonybai.com/tags/%E7%A0%82%E7%BA%B8%E7%94%BB/"/>
     
   </entry>
   
