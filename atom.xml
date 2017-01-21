@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://daughter.tonybai.com/"/>
-  <updated>2017-01-17T02:14:57.000Z</updated>
+  <updated>2017-01-21T05:39:07.000Z</updated>
   <id>http://daughter.tonybai.com/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的电路实验课（一）</title>
+    <link href="http://daughter.tonybai.com/2017/01/21/electric-circuit-course-1/"/>
+    <id>http://daughter.tonybai.com/2017/01/21/electric-circuit-course-1/</id>
+    <published>2017-01-21T00:00:00.000Z</published>
+    <updated>2017-01-21T05:39:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天妈妈去公司参加年会了，老爸在家和我一起做电路实验，这是我第一次接触这些好玩儿的东西，很兴奋。</p>
+<p>首先是老爸给我做了一个带开关的点亮小灯的例子（老爸说那个小灯儿叫发光二极管）：</p>
+<p><img src="http://image.tonybai.com/img/201701/diary_20170121_2.jpg" alt="带开关的小灯"><br><img src="http://image.tonybai.com/img/201701/diary_20170121_1.jpg" alt="我和小灯"></p>
+<p>然后老爸花了20分钟给我讲什么是电流、电源、直流电源、导线，老爸虽然说的很形象，什么水桶、水管、水车之类的，但我还是有些“迷糊”。于是爸爸给我出了两道题让我动手体验一下，在他的帮助下，我完成了两个电路作业（其实我更擅长那个串联电路^0^）。(电源是用之前一个电动玩具车的充电电池组)</p>
+<p><img src="http://image.tonybai.com/img/201701/diary_20170121_3.jpg" alt="串联小灯"><br><img src="http://image.tonybai.com/img/201701/diary_20170121_4.jpg" alt="并联小灯"></p>
+<p>老爸点评：大早上，果果在抽屉里把握之前买的“Arduino初学者学习套件”给翻出来了，顺便和她一起玩玩，没想到她的学习能力还不错，串联电路基本上是自己的摆的。并联电路是在我的辅助下完成的。后续还得开发新实验，否则不能满足女儿需求了^0^。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天妈妈去公司参加年会了，老爸在家和我一起做电路实验，这是我第一次接触这些好玩儿的东西，很兴奋。&lt;/p&gt;
+&lt;p&gt;首先是老爸给我做了一个带开关的点亮小灯的例子（老爸说那个小灯儿叫发光二极管）：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://image.tonybai.com
+    
+    </summary>
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
+      <category term="小学" scheme="http://daughter.tonybai.com/tags/%E5%B0%8F%E5%AD%A6/"/>
+    
+      <category term="学习" scheme="http://daughter.tonybai.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="科学" scheme="http://daughter.tonybai.com/tags/%E7%A7%91%E5%AD%A6/"/>
+    
+      <category term="电路" scheme="http://daughter.tonybai.com/tags/%E7%94%B5%E8%B7%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>我的一年级上学期成绩汇报</title>
