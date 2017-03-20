@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://daughter.tonybai.com/"/>
-  <updated>2017-03-02T13:42:27.000Z</updated>
+  <updated>2017-03-20T01:31:35.000Z</updated>
   <id>http://daughter.tonybai.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的两幅砂纸画</title>
+    <link href="http://daughter.tonybai.com/2017/03/18/two-sandpaper-paintings-201703/"/>
+    <id>http://daughter.tonybai.com/2017/03/18/two-sandpaper-paintings-201703/</id>
+    <published>2017-03-18T00:00:00.000Z</published>
+    <updated>2017-03-20T01:31:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>寒假结束了，少年宫的美术课也恢复正常了。下面是这两周老师教给我们的砂纸画：</p>
+<p><img src="http://image.tonybai.com/img/201703/diary_20170318_1.jpg" alt="熊与老鼠"></p>
+<p><img src="http://image.tonybai.com/img/201703/diary_20170318_2.jpg" alt="小猴爬树"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;寒假结束了，少年宫的美术课也恢复正常了。下面是这两周老师教给我们的砂纸画：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://image.tonybai.com/img/201703/diary_20170318_1.jpg&quot; alt=&quot;熊与老鼠&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img 
+    
+    </summary>
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="美术" scheme="http://daughter.tonybai.com/tags/%E7%BE%8E%E6%9C%AF/"/>
+    
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
+      <category term="画作" scheme="http://daughter.tonybai.com/tags/%E7%94%BB%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>开学了</title>
@@ -682,37 +715,6 @@
       <category term="表演" scheme="http://daughter.tonybai.com/tags/%E8%A1%A8%E6%BC%94/"/>
     
       <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的第一幅油画棒砂纸画</title>
-    <link href="http://daughter.tonybai.com/2016/12/17/my-first-sandpaper-painting/"/>
-    <id>http://daughter.tonybai.com/2016/12/17/my-first-sandpaper-painting/</id>
-    <published>2016-12-17T00:00:00.000Z</published>
-    <updated>2017-01-17T02:15:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是我的第一篇博文，意义重大，但也没那么重要。生活是由点点滴滴组成的，让我就从那一点一滴开始。哦，Sorry，这段开场白来自我的老爸哦，第一篇是由他代劳的^0^。</p>
-<p>在用记号笔画了几个月的儿童简笔画/线条画之后，美术老师终于开始教我们一种新的儿童画类型：油画棒砂纸画。下面就是我今天画的第一幅油画棒砂纸画，你觉得怎么样？</p>
-<p><img src="http://image.tonybai.com/img/201612/draw_20161217_1.jpg" alt="图1：我的第一幅油画棒砂纸画"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      这是我的第一篇博文，意义重大，但也没那么重要。生活是由点点滴滴组成的，让我就从那一点一滴开始。哦，Sorry，这段开场白来自我的老爸哦，第一篇是由他代劳的^0^
-    
-    </summary>
-    
-      <category term="美术" scheme="http://daughter.tonybai.com/categories/%E7%BE%8E%E6%9C%AF/"/>
-    
-    
-      <category term="美术" scheme="http://daughter.tonybai.com/tags/%E7%BE%8E%E6%9C%AF/"/>
-    
-      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
-    
-      <category term="砂纸画" scheme="http://daughter.tonybai.com/tags/%E7%A0%82%E7%BA%B8%E7%94%BB/"/>
-    
-      <category term="画画" scheme="http://daughter.tonybai.com/tags/%E7%94%BB%E7%94%BB/"/>
     
   </entry>
   
