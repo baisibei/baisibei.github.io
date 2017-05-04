@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://daughter.tonybai.com/"/>
-  <updated>2017-05-02T02:04:20.000Z</updated>
+  <updated>2017-05-04T02:55:14.000Z</updated>
   <id>http://daughter.tonybai.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我七岁了</title>
+    <link href="http://daughter.tonybai.com/2017/05/03/i-am-7-years-old/"/>
+    <id>http://daughter.tonybai.com/2017/05/03/i-am-7-years-old/</id>
+    <published>2017-05-03T00:00:00.000Z</published>
+    <updated>2017-05-04T02:55:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是我的七周岁生日，我非常开心。一大早妈妈、爸爸、姥姥就向我祝贺生日快乐！由于今天是工作日，生日蛋糕只能晚上再补。</p>
+<p>我期盼了一天，终于在晚上吃到了妈妈为我订的生日蛋糕。我自己插上了七根蜡烛。在生日歌和爸爸妈妈的祝福中，我许了愿，吹灭了生日蜡烛。妈妈订的生日蛋糕真好吃！</p>
+<p><img src="http://image.tonybai.com/img/201705/diary_20170503_1.jpg" alt="我的七周岁生日蛋糕"></p>
+<p><img src="http://image.tonybai.com/img/201705/diary_20170503_2.jpg" alt="许愿中"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天是我的七周岁生日，我非常开心。一大早妈妈、爸爸、姥姥就向我祝贺生日快乐！由于今天是工作日，生日蛋糕只能晚上再补。&lt;/p&gt;
+&lt;p&gt;我期盼了一天，终于在晚上吃到了妈妈为我订的生日蛋糕。我自己插上了七根蜡烛。在生日歌和爸爸妈妈的祝福中，我许了愿，吹灭了生日蜡烛。妈妈订的生日蛋
+    
+    </summary>
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
+      <category term="家庭" scheme="http://daughter.tonybai.com/tags/%E5%AE%B6%E5%BA%AD/"/>
+    
+      <category term="生日" scheme="http://daughter.tonybai.com/tags/%E7%94%9F%E6%97%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>五一北京游记</title>
@@ -743,41 +776,6 @@
       <category term="联欢会" scheme="http://daughter.tonybai.com/tags/%E8%81%94%E6%AC%A2%E4%BC%9A/"/>
     
       <category term="诗朗诵" scheme="http://daughter.tonybai.com/tags/%E8%AF%97%E6%9C%97%E8%AF%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一年级上学期期末测试之制作小诗卡</title>
-    <link href="http://daughter.tonybai.com/2016/12/28/a-term-examination-about-poem-for-first-term-in-grade-one/"/>
-    <id>http://daughter.tonybai.com/2016/12/28/a-term-examination-about-poem-for-first-term-in-grade-one/</id>
-    <published>2016-12-28T00:00:00.000Z</published>
-    <updated>2017-01-17T02:14:35.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://image.tonybai.com/img/201612/quiz_20161228.jpg" alt="期末测试中我制作的小诗卡"></p>
-<p>从这周开始，学校就进入期末考试阶段了。今天的测试题目是：制作小诗卡。我使用的是唐代著名大诗人李白的《望天门山》，还配了图喽。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://image.tonybai.com/img/201612/quiz_20161228.jpg&quot; alt=&quot;期末测试中我制作的小诗卡&quot;&gt;&lt;/p&gt;
-&lt;p&gt;从这周开始，学校就进入期末考试阶段了。今天的测试题目是：制作小诗卡。我使用的是唐代著名大诗
-    
-    </summary>
-    
-      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
-    
-      <category term="校园" scheme="http://daughter.tonybai.com/tags/%E6%A0%A1%E5%9B%AD/"/>
-    
-      <category term="2016" scheme="http://daughter.tonybai.com/tags/2016/"/>
-    
-      <category term="考试" scheme="http://daughter.tonybai.com/tags/%E8%80%83%E8%AF%95/"/>
-    
-      <category term="唐诗" scheme="http://daughter.tonybai.com/tags/%E5%94%90%E8%AF%97/"/>
-    
-      <category term="李白" scheme="http://daughter.tonybai.com/tags/%E6%9D%8E%E7%99%BD/"/>
     
   </entry>
   
