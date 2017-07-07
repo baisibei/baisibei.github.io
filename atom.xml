@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://daughter.tonybai.com/"/>
-  <updated>2017-07-03T01:33:18.000Z</updated>
+  <updated>2017-07-07T13:34:54.000Z</updated>
   <id>http://daughter.tonybai.com/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>两幅抽象画</title>
+    <link href="http://daughter.tonybai.com/2017/07/07/two-pictures-drawed-at-school/"/>
+    <id>http://daughter.tonybai.com/2017/07/07/two-pictures-drawed-at-school/</id>
+    <published>2017-07-07T00:00:00.000Z</published>
+    <updated>2017-07-07T13:34:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>临近期末，美术课老师让我们在学校自由发挥完成两幅画，于是就有了下面这两幅：</p>
+<p><img src="http://image.tonybai.com/img/201707/diary_20170707_1.jpg" alt="海上的轮船"></p>
+<p><img src="http://image.tonybai.com/img/201707/diary_20170707_2.jpg" alt="带风车的房子"></p>
+<p>爸爸觉得我还是画这类抽象画最拿手:)</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;临近期末，美术课老师让我们在学校自由发挥完成两幅画，于是就有了下面这两幅：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://image.tonybai.com/img/201707/diary_20170707_1.jpg&quot; alt=&quot;海上的轮船&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img
+    
+    </summary>
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
+    
+      <category term="画作" scheme="http://daughter.tonybai.com/tags/%E7%94%BB%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>我的矿泉水水瓶设计</title>
@@ -730,40 +762,6 @@
       <category term="电路" scheme="http://daughter.tonybai.com/tags/%E7%94%B5%E8%B7%AF/"/>
     
       <category term="arduino" scheme="http://daughter.tonybai.com/tags/arduino/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的一年级上学期成绩汇报</title>
-    <link href="http://daughter.tonybai.com/2017/01/16/my-achievement-report-of-first-term-in-grade-one/"/>
-    <id>http://daughter.tonybai.com/2017/01/16/my-achievement-report-of-first-term-in-grade-one/</id>
-    <published>2017-01-16T00:00:00.000Z</published>
-    <updated>2017-01-17T02:14:57.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天老爸去学校参加一年级上学期期末家长会了。会上校长和班主任分别对这一学期以来的教学工作做了总结，并对学生们即将到来的寒假做了安排。并且，每位家长都收到了本学期孩子的《学业成绩报告单》。以下是我的学业成绩哦:)</p>
-<p><img src="http://image.tonybai.com/img/201701/diary_20170116_2.jpg" alt="学科成绩评价表"><br><img src="http://image.tonybai.com/img/201701/diary_20170116_1.jpg" alt="语文和数学期末学业测试卷纸"><br><img src="http://image.tonybai.com/img/201701/diary_20170116_3.jpg" alt="“双科冠军”奖状"></p>
-<p>老爸点评：不知不觉间，一个学期就这么过去了。果果在学业成绩上表现还是很突出的，但更重要的是养成良好的学习习惯，我对孩子的教诲就是“优秀是一种习惯”。这方面果果还有很大改进空间。希望果果在寒假里认真总结，保持良好习惯，改掉不良习惯，认真完成学校的寒假作业以及老爸部署的阅读任务。寒假开始了！</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天老爸去学校参加一年级上学期期末家长会了。会上校长和班主任分别对这一学期以来的教学工作做了总结，并对学生们即将到来的寒假做了安排。并且，每位家长都收到了本学期孩子的《学业成绩报告单》。以下是我的学业成绩哦:)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://image.t
-    
-    </summary>
-    
-      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
-    
-      <category term="校园" scheme="http://daughter.tonybai.com/tags/%E6%A0%A1%E5%9B%AD/"/>
-    
-      <category term="2017" scheme="http://daughter.tonybai.com/tags/2017/"/>
-    
-      <category term="小学" scheme="http://daughter.tonybai.com/tags/%E5%B0%8F%E5%AD%A6/"/>
-    
-      <category term="学习" scheme="http://daughter.tonybai.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
