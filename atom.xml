@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://daughter.tonybai.com/"/>
-  <updated>2022-03-20T07:37:59.528Z</updated>
+  <updated>2022-04-02T23:30:31.117Z</updated>
   <id>http://daughter.tonybai.com/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的发型我做主</title>
+    <link href="http://daughter.tonybai.com/2022/03/31/my-hair-is-my-decision/"/>
+    <id>http://daughter.tonybai.com/2022/03/31/my-hair-is-my-decision/</id>
+    <published>2022-03-31T00:00:00.000Z</published>
+    <updated>2022-04-02T23:30:31.117Z</updated>
+    
+    <content type="html"><![CDATA[<p>因疫情在家里憋的太久了，我开始了放飞自我，先从发型开始，我的发型我做主^_^！</p>
+<p><img src="http://image.tonybai.com/img/202203/diary_20220331_01.jpeg" alt="我的发型1"></p>
+<p>大家觉得有没有点杀马特(smart)的味道。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因疫情在家里憋的太久了，我开始了放飞自我，先从发型开始，我的发型我做主^_^！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://image.tonybai.com/img/202203/diary_20220331_01.jpeg&quot; alt=&quot;我的发型1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+    
+    </summary>
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="亲子" scheme="http://daughter.tonybai.com/tags/%E4%BA%B2%E5%AD%90/"/>
+    
+      <category term="家庭" scheme="http://daughter.tonybai.com/tags/%E5%AE%B6%E5%BA%AD/"/>
+    
+      <category term="2022" scheme="http://daughter.tonybai.com/tags/2022/"/>
+    
+      <category term="疫情" scheme="http://daughter.tonybai.com/tags/%E7%96%AB%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>使用妹妹的玩具进行我的创作</title>
@@ -837,41 +872,6 @@
       <category term="牛年" scheme="http://daughter.tonybai.com/tags/%E7%89%9B%E5%B9%B4/"/>
     
       <category term="妇女节" scheme="http://daughter.tonybai.com/tags/%E5%A6%87%E5%A5%B3%E8%8A%82/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的中国书法习作</title>
-    <link href="http://daughter.tonybai.com/2021/03/07/my-chinese-calligraphy-show-20210307/"/>
-    <id>http://daughter.tonybai.com/2021/03/07/my-chinese-calligraphy-show-20210307/</id>
-    <published>2021-03-07T00:00:00.000Z</published>
-    <updated>2021-03-08T01:49:52.506Z</updated>
-    
-    <content type="html"><![CDATA[<p>在寒假的时候我迷上了中国书法，尤其喜欢柳公权的风格，下面是我的临摹作品，大家看怎么样^_^：</p>
-<p><img src="http://image.tonybai.com/img/202103/diary_20210307_01.jpeg" alt="中国书法临摹1"></p>
-<p><img src="http://image.tonybai.com/img/202103/diary_20210307_02.jpeg" alt="中国书法临摹2"></p>
-<p>老爸虽然不是很喜欢我摆弄书法的东西，但还是在物质上支持了我，给我买了各种书法“装备”以及<a href="https://book.douban.com/subject/6535412/" target="_blank" rel="external">《中国书法一本通》</a>，希望我了解书法的历史演化以及各书法大家的风格，而不要浮于表面。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在寒假的时候我迷上了中国书法，尤其喜欢柳公权的风格，下面是我的临摹作品，大家看怎么样^_^：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://image.tonybai.com/img/202103/diary_20210307_01.jpeg&quot; alt=&quot;中国书法临摹1&quot;
-    
-    </summary>
-    
-      <category term="日记" scheme="http://daughter.tonybai.com/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-      <category term="日记" scheme="http://daughter.tonybai.com/tags/%E6%97%A5%E8%AE%B0/"/>
-    
-      <category term="2021" scheme="http://daughter.tonybai.com/tags/2021/"/>
-    
-      <category term="牛年" scheme="http://daughter.tonybai.com/tags/%E7%89%9B%E5%B9%B4/"/>
-    
-      <category term="书法" scheme="http://daughter.tonybai.com/tags/%E4%B9%A6%E6%B3%95/"/>
-    
-      <category term="柳公权" scheme="http://daughter.tonybai.com/tags/%E6%9F%B3%E5%85%AC%E6%9D%83/"/>
     
   </entry>
   
